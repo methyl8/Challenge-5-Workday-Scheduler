@@ -9,6 +9,11 @@ and when "Save" is clicked, it will be saved in local storage.  If the text is r
 
 [Challenge 5 live page](https://methyl8.github.io/Challenge-5-Workday-Scheduler/)
 
+## Technologies Used
+1. [jQuery](https://jquery.com/)
+2. [Bootstrap](https://getbootstrap.com/)
+3. [moment.js](https://momentjs.com/)
+
 ## Screenshots
 
 ![Screenshot](/screenshots/fullscreen.png?raw=true)
