@@ -3,7 +3,7 @@ Workday Scheduler
 ---
 ## Description
 Display an hourly calendar for the current work day.  Each hour is displayed color-coded to denote past, current and future time blocks.  Text can be added in each block,
-and when "Save" is clicked, it will be saved in local storage.  If the text is removed, the item in local storage is cleared.
+and when "Save" is clicked, it will be saved in local storage.  If the text is removed, the item in local storage is removed.
 
 ## Link
 
